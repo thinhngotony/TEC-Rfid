@@ -1,0 +1,14 @@
+C:\Users\Tony\Desktop\TEC\Write_TEC\bin\Debug\netcoreapp3.1\Write_TEC.exe
+C:\Users\Tony\Desktop\TEC\Write_TEC\bin\Debug\netcoreapp3.1\Write_TEC.deps.json
+C:\Users\Tony\Desktop\TEC\Write_TEC\bin\Debug\netcoreapp3.1\Write_TEC.runtimeconfig.json
+C:\Users\Tony\Desktop\TEC\Write_TEC\bin\Debug\netcoreapp3.1\Write_TEC.runtimeconfig.dev.json
+C:\Users\Tony\Desktop\TEC\Write_TEC\bin\Debug\netcoreapp3.1\Write_TEC.dll
+C:\Users\Tony\Desktop\TEC\Write_TEC\bin\Debug\netcoreapp3.1\Write_TEC.pdb
+C:\Users\Tony\Desktop\TEC\Write_TEC\obj\Debug\netcoreapp3.1\Write_TEC.csproj.AssemblyReference.cache
+C:\Users\Tony\Desktop\TEC\Write_TEC\obj\Debug\netcoreapp3.1\Write_TEC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony\Desktop\TEC\Write_TEC\obj\Debug\netcoreapp3.1\Write_TEC.AssemblyInfoInputs.cache
+C:\Users\Tony\Desktop\TEC\Write_TEC\obj\Debug\netcoreapp3.1\Write_TEC.AssemblyInfo.cs
+C:\Users\Tony\Desktop\TEC\Write_TEC\obj\Debug\netcoreapp3.1\Write_TEC.csproj.CoreCompileInputs.cache
+C:\Users\Tony\Desktop\TEC\Write_TEC\obj\Debug\netcoreapp3.1\Write_TEC.dll
+C:\Users\Tony\Desktop\TEC\Write_TEC\obj\Debug\netcoreapp3.1\Write_TEC.pdb
+C:\Users\Tony\Desktop\TEC\Write_TEC\obj\Debug\netcoreapp3.1\Write_TEC.genruntimeconfig.cache
